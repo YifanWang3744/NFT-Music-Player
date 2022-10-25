@@ -11,3 +11,6 @@ Link to [demo](https://www.youtube.com/watch?v=FsixRtyymDc)
 - [React routers](https://v5.reactrouter.com/) (Navigational components)
 
 ## Preview
+<picture>
+![home](https://user-images.githubusercontent.com/93358121/197883667-45a3fdb4-9772-4778-9ffb-32fef11031d5.png)
+</picture>
