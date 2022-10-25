@@ -1,5 +1,6 @@
 ﻿# NFT-Music-Player
 We build a Web3 NFT music player with functionalities like music trading, searching for songs and joining membership.
+Link to [demo](https://www.youtube.com/watch?v=FsixRtyymDc)
 
 ## Technology & Tools
 - Solidity (Writing Smart Contract)
@@ -8,3 +9,5 @@ We build a Web3 NFT music player with functionalities like music trading, search
 - [Hardhat](https://hardhat.org/) (Development Framework)
 - [Ipfs](https://ipfs.io/) (Metadata storage)
 - [React routers](https://v5.reactrouter.com/) (Navigational components)
+
+## Preview
