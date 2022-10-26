@@ -1,7 +1,7 @@
-﻿# NFT-Music-Player
-We build a Web3 NFT music player with functionalities like music trading, searching for songs and joining membership.
+﻿# NFT Music Player
+A Web3 NFT music player with functionalities like music trading, searching for songs and joining membership.
 
-[Link](https://www.youtube.com/watch?v=FsixRtyymDc) to demo
+[Link](https://www.youtube.com/watch?v=FsixRtyymDc) to a demo video
 
 ## Technology & Tools
 - Javascript (React & Testing)
